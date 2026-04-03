@@ -19,8 +19,6 @@ This project is structured around three phases of data analysis:
 ```
 sql-data-analytics-project/
 │
-├── docs/                              # Project documentation
-│
 ├── scripts/                           # SQL scripts for analysis and reporting
 │   ├── Change-Over-Time Trends.sql    # Trend analysis over time periods
 │   ├── Cumulative Analysis.sql        # Running totals and cumulative metrics
